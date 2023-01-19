@@ -1,0 +1,15 @@
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/bin/Debug/net7.0/Delliverable2
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/bin/Debug/net7.0/Delliverable2.deps.json
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/bin/Debug/net7.0/Delliverable2.runtimeconfig.json
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/bin/Debug/net7.0/Delliverable2.dll
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/bin/Debug/net7.0/Delliverable2.pdb
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/obj/Debug/net7.0/Delliverable2.csproj.AssemblyReference.cache
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/obj/Debug/net7.0/Delliverable2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/obj/Debug/net7.0/Delliverable2.AssemblyInfoInputs.cache
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/obj/Debug/net7.0/Delliverable2.AssemblyInfo.cs
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/obj/Debug/net7.0/Delliverable2.csproj.CoreCompileInputs.cache
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/obj/Debug/net7.0/Delliverable2.dll
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/obj/Debug/net7.0/refint/Delliverable2.dll
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/obj/Debug/net7.0/Delliverable2.pdb
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/obj/Debug/net7.0/Delliverable2.genruntimeconfig.cache
+/Users/adilkedir/Projects/Delliverable2/Delliverable2/obj/Debug/net7.0/ref/Delliverable2.dll
